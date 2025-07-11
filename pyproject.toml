@@ -2,7 +2,7 @@
 name = "py-template"
 version = "0.1.0"
 description = "Python template for sacloud"
-authors = [{name = "py-template authors"}]
+authors = [{name = "SAKURA internet Inc.", email = "oss-dev@sakura.ad.jp"}]
 readme = "README.md"
 license = "Apache-2.0"
 license-files = ["LICENSE"]
